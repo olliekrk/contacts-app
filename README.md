@@ -9,7 +9,7 @@
 * Edit existing user data
 ![](update.png)
 * Validate provided user data before inserting a record in the database
-![](validation.png)
+![](validate.png)
 * Delete user
 ![](homepage.png)
 * Log in onto existing user's account
