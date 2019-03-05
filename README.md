@@ -5,15 +5,15 @@
 
 ## Functionalities
 * Register new user
-![](examples/creation.png)
+![](./examples/creation.png)
 * Edit existing user data
-![](examples/update.png)
+![](./examples/update.png)
 * Validate provided user data before inserting a record in the database
-![](examples/validation.png)
+![](./examples/validation.png)
 * Delete user
-![](examples/homepage.png)
+![](./examples/homepage.png)
 * Log in onto existing user's account
-![](examples/login.png)
+![](./examples/login.png)
 
 ## TODO
 * Add Spring Security module to maintain login & registration properly
